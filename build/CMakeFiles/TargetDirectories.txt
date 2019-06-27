@@ -1,0 +1,6 @@
+/home/benji/Documents/Temporality2D/build/CMakeFiles/rebuild_cache.dir
+/home/benji/Documents/Temporality2D/build/CMakeFiles/edit_cache.dir
+/home/benji/Documents/Temporality2D/build/CMakeFiles/run.dir
+/home/benji/Documents/Temporality2D/build/CMakeFiles/depend-sfml.dir
+/home/benji/Documents/Temporality2D/build/CMakeFiles/Temporality2D.dir
+/home/benji/Documents/Temporality2D/build/CMakeFiles/depend-glm.dir

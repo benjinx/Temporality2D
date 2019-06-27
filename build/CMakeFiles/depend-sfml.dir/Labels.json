@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/CMakeFiles/depend-sfml"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/CMakeFiles/depend-sfml.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/CMakeFiles/depend-sfml-complete.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/depend-sfml-prefix/src/depend-sfml-stamp/depend-sfml-install.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/depend-sfml-prefix/src/depend-sfml-stamp/depend-sfml-mkdir.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/depend-sfml-prefix/src/depend-sfml-stamp/depend-sfml-download.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/depend-sfml-prefix/src/depend-sfml-stamp/depend-sfml-update.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/depend-sfml-prefix/src/depend-sfml-stamp/depend-sfml-patch.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/depend-sfml-prefix/src/depend-sfml-stamp/depend-sfml-configure.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/depend-sfml-prefix/src/depend-sfml-stamp/depend-sfml-build.rule"
+		},
+		{
+			"file" : "/home/benji/Documents/Temporality2D/build/depend-sfml-prefix/src/depend-sfml-stamp/depend-sfml-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"depend-sfml"
+		],
+		"name" : "depend-sfml"
+	}
+}
